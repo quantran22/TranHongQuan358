@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace DemoDotNetMVC.Models
 {
     [Table("UniversityTHQ358s")]
-     public class UniversityTHQ358
+     public class UniversityTHQ358 : StringProcessTHQ358 
     {
         [Key]
         [StringLength(20)]
@@ -13,5 +13,6 @@ namespace DemoDotNetMVC.Models
         [StringLength (50)]
         [Display(Name ="Tên trường đại học")]
         public string UniversityName {get; set;}
+        
     }
 }
