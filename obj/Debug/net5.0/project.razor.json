@@ -15639,8 +15639,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\UniversityTHQ358s\\Delete.cshtml",
+      "TargetPath": "Views\\UniversityTHQ358s\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\UniversityTHQ358s\\Details.cshtml",
+      "TargetPath": "Views\\UniversityTHQ358s\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\UniversityTHQ358s\\Edit.cshtml",
+      "TargetPath": "Views\\UniversityTHQ358s\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15649,8 +15664,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\UniversityTHQ358s\\Index.cshtml",
+      "TargetPath": "Views\\UniversityTHQ358s\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\MNM\\TranHongQuan358\\Views\\UniversityTHQ358s\\Create.cshtml",
+      "TargetPath": "Views\\UniversityTHQ358s\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
