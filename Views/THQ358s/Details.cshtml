@@ -1,0 +1,30 @@
+@model TranHongQuan358.Models.THQ358
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>THQ358</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.THQName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.THQName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.THQGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.THQGender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.THQId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

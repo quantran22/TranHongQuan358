@@ -168,3 +168,8 @@ D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\UniversityTHQ358s\Delete.csh
 D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\UniversityTHQ358s\Details.cshtml.g.cs
 D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\UniversityTHQ358s\Edit.cshtml.g.cs
 D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\UniversityTHQ358s\Index.cshtml.g.cs
+D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\THQ358s\Create.cshtml.g.cs
+D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\THQ358s\Delete.cshtml.g.cs
+D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\THQ358s\Details.cshtml.g.cs
+D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\THQ358s\Edit.cshtml.g.cs
+D:\MNM\TranHongQuan358\obj\Debug\net5.0\Razor\Views\THQ358s\Index.cshtml.g.cs
